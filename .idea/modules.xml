@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guide_app-master.iml" filepath="$PROJECT_DIR$/guide_app-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guideapp/guideapp.iml" filepath="$PROJECT_DIR$/guideapp/guideapp.iml" />
+    </modules>
+  </component>
+</project>
